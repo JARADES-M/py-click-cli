@@ -1,3 +1,5 @@
+[![Python cli](https://github.com/JARADES-M/py-click-cli/actions/workflows/python-cli.yml/badge.svg)](https://github.com/JARADES-M/py-click-cli/actions/workflows/python-cli.yml)
+
 # A 'Hello World' Click commandline tool
 
 
